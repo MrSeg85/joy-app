@@ -31,3 +31,7 @@ android/build/
 *.tmp
 *.swp
 *.swo
+
+# Expo Metro Cache
+.metro-cache
+frontend/.metro-cache
